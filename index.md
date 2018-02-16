@@ -13,7 +13,7 @@ Text can be **minha**, _pagina_, or ~~principal~~.
 
 2. Express  
 
-3. Retake [Jogo2](https://jldifrn.github.io/ArdenasRetake/)    
+3. Retake [Jogo3](https://jldifrn.github.io/ArdenasRetake/)    
 
 4. Bacteria
 * * *  
