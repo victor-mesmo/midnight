@@ -37,7 +37,7 @@ Text can be **minha**, _pagina_, or ~~principal~~.
 * * *  
 ## Contatos  
 * * *   
-![](contato.png)(http://steamcommunity.com/id/vitorr1232/)    
+(http://steamcommunity.com/id/vitorr1232/)    
 
 **negrito  
 _ itálico  
