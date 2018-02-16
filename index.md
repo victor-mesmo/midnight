@@ -23,7 +23,10 @@ Text can be **minha**, _pagina_, or ~~principal~~.
 * * *   
 ![](https://orig00.deviantart.net/cc86/f/2015/014/9/e/m4a4_asiimov___pixel_art_by_stephenmdw-d8dy367.png)    
 
-Uma das mais importantes empresas que participo.
+**Uma das mais importantes empresas que participo.**
+
+![](empresa 1.png)    
+
 ![](Telajogo1.png)    
 
 ![](Telajogo2.png)  
