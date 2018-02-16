@@ -14,7 +14,7 @@ Text can be **minha**, _pagina_, or ~~principal~~.
 
 2. Express  
 
-3. Retake [Jogo3](https://jldifrn.github.io/ArdenasRetake/)    
+3. Ardenas Retake [Jogo3](https://jldifrn.github.io/ArdenasRetake/)    
 
 4. Bacteria
 * * *  
@@ -25,9 +25,10 @@ Text can be **minha**, _pagina_, or ~~principal~~.
 **Uma das mais importantes empresas que participo.**
 
 ![](empresa 1.png)    
-
+**Um pouco das artes dos Jogos Produzidos**   
+**Akili**
 ![](Telajogo1.png)    
-
+**Ardenas Retake**   
 ![](Telajogo2.png)     
 ![](Telajogo3.png)       
 ![](Telajogo4.png)
