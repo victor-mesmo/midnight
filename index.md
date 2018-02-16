@@ -2,7 +2,7 @@
 layout: default
 ---  
 Text can be **minha**, _pagina_, or ~~principal~~.
-# Quem sou eu!?
+# **Quem sou eu!?**  
 Aluno de Programação de Jogos Digitais, Victor "Frosty" Rodrigues.
 * * * 
 # Portifólio 
