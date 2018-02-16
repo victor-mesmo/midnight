@@ -23,7 +23,7 @@ Text can be **minha**, _pagina_, or ~~principal~~.
 ![](https://orig00.deviantart.net/cc86/f/2015/014/9/e/m4a4_asiimov___pixel_art_by_stephenmdw-d8dy367.png)    
 
 
-![](site2.png)
+![](telajogo1.png)
 
 
 * * *   
