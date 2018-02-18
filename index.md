@@ -1,7 +1,7 @@
 ---
 layout: default
 ---  
-Text can be **minha**, _pagina_, or ~~principal~~.
+
 # **Quem sou eu!?**  
 * * *
 ![](peixe-serio-bob-esponja.jpg)      
