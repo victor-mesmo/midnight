@@ -4,6 +4,7 @@ layout: default
 Text can be **minha**, _pagina_, or ~~principal~~.
 # **Quem sou eu!?**  
 * * *
+                                       ![](peixe-serio-bob-esponja.jpg)   
 **Aluno de Programação de Jogos Digitais do Instituto Federal de Ciencia e Tecnologia Do Rio Grande do Norte Ceará-Mirim, Victor "Frosty" Rodrigues. Natural de Ceará- Mirim RN, 17 anos, Futuro desenvolvedor de Jogos Digitais**      
 ***Student of Programming of Digital Games of the Federal Institute of Science and Technology of Rio Grande do Norte Ceará-Mirim, Victor "Frosty" Rodrigues. Natural from Ceará - Mirim RN, 17 years old, Future developer of Digital Games, ~~my english is so bad~~***   
 * * * 
