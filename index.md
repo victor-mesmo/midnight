@@ -15,11 +15,11 @@ During the year 2017 and 2018 my class of digital programming we made several pr
 ## Games  
 1. Akili [Jogo 1](https://elielton90.github.io/Akili/)  
 
-2. Express  
+2. Express [Jogo 2](https://eriksonnicacio.github.io/New%20project/) 
 
-3. Ardenas Retake [Jogo3](https://jldifrn.github.io/ArdenasRetake/)    
+3. Ardenas Retake [Jogo 3](https://jldifrn.github.io/ArdenasRetake/)    
 
-4. Bacteria
+4. Bacteria [Jogo4](https://eriksonnicacio.github.io/bacteria2/)
 * * *  
 ## Artes  
 
