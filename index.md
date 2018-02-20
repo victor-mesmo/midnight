@@ -23,7 +23,6 @@ All the descriptions are in pt br, for more information look in "Contatos"._
 4. Bacteria [Jogo4](https://eriksonnicacio.github.io/bacteria2/)
 * * *  
 ## Artes  
-
 * * *    
 
 **Uma das mais importantes empresas que participo.**
@@ -41,7 +40,7 @@ All the descriptions are in pt br, for more information look in "Contatos"._
 * * *   
 ### Mapa de Influência   
 * * *   
-
+![](Map influnceOficial.png)
 * * *   
 
 ### Parcerias      
