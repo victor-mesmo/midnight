@@ -10,7 +10,8 @@ layout: default
 * * * 
 # Portifólio 
   _Durante o ano de 2017 e 2018 minha turma de progrmação digital fizemos varios projetos de jogos digitais abaixo você consigirá velos é prestigia-los.   
-During the year 2017 and 2018 my class of digital programming we made several projects of digital games below you will get veils is prestigia them_
+During the year 2017 and 2018 my class of digital programming we made several projects of digital games below you will get veils is prestigia them. 
+All the descriptions are in pt br, for more information look in "Contatos"._
 * * *  
 ## Games  
 1. Akili [Jogo 1](https://elielton90.github.io/Akili/)  
@@ -37,7 +38,19 @@ During the year 2017 and 2018 my class of digital programming we made several pr
 ![](Telajogo4.png)
 
 
-* * *  
+* * *   
+### Mapa de Influência   
+* * *   
+
+* * *   
+
+### Parcerias      
+* * * 
+**Maior tutor de todos os tempos** [Marcelo Barbosa](http://marcelomesmo.github.io/)
+[Elielton Torres](eriksonnicacio.github.io)   
+[Erikison Pedro](eriksonnicacio.github.io)
+[Jose Luiz Dantas](jldifrn.github.io)
+* * *
 ## Contatos  
 * * *   
 [steam](http://steamcommunity.com/id/vitorr1232/)    
