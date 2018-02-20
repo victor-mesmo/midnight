@@ -21,7 +21,8 @@ All the descriptions are in pt br, for more information look in "Contatos"._
 3. Ardenas Retake [Jogo 3](https://jldifrn.github.io/ArdenasRetake/)    
 
 4. Bacteria [Jogo4](https://eriksonnicacio.github.io/bacteria2/)
-* * *  
+
+* * *     
 ## Artes  
 * * *    
 
