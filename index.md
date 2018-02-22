@@ -38,7 +38,15 @@ All the descriptions are in pt br, for more information look in "Contatos"._
 ![](Telajogo4.png)
 
 
-* * *   
+* * *
+### Trabalhos de Animação ###   
+![](esquelo_correndo.gif)   
+
+
+![](esquelo_impacto.gif)   
+
+![](esquelo_pulando2.gif)   
+
 ### Mapa de Influência   
 * * *   
 ![](Map influnceOficial.png)
