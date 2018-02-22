@@ -57,7 +57,7 @@ All the descriptions are in pt br, for more information look in "Contatos"._
 * * *
 ## Contatos  
 * * *   
-[steam](http://steamcommunity.com/id/vitorr1232/)    
+[steam](http://steamcommunity.com/id/vitorr1232/)       
 ![](qota.gif)   
 ![](Fallen GIF.gif)   
 * * *
