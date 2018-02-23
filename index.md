@@ -14,14 +14,13 @@ During the year 2017 and 2018 my class of digital programming we made several pr
 All the descriptions are in pt br, for more information look in "Contatos"._
 * * *  
 ## Games  
-1. Akili [Jogo 1](https://elielton90.github.io/Akili/)   
+1. Akili [Jogo 1](https://elielton90.github.io/Akili/)    
 _Entre na pele de uma garotinha a procura da cura da sua maldição. Jogo plataforma.PC._   
-
-2. Express [Jogo 2](https://eriksonnicacio.github.io/New%20project/) 
+2. Express [Jogo 2](https://eriksonnicacio.github.io/New%20project/)   
 _Arruma essas cartas! Jogo Touch. Pc/Celular._   
-3. Ardenas Retake [Jogo 3](https://jldifrn.github.io/ArdenasRetake/)    
+3. Ardenas Retake [Jogo 3](https://jldifrn.github.io/ArdenasRetake/)       
 _Reconquiste o seu territorio_ Jogo Plataforma.Pc._   
-4. Bacteria [Jogo4](https://eriksonnicacio.github.io/bacteria2/)
+4. Bacteria [Jogo4](https://eriksonnicacio.github.io/bacteria2/)   
 _Conheça o seu pior pesadelo, as bacterias. Jogo Tower defence. Pc/celular._   
 * * *     
 ## Artes  
