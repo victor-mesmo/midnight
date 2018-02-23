@@ -58,10 +58,13 @@ _Conheça o seu pior pesadelo, as bacterias. Jogo Tower defence. Pc/celular._
 * * *   
 ## Premiações    
 **"5 arnold,7 norte nordeste, 6 bbb, 10 soletrando, 3 mega da virada, 8 major."**   
+* * *
 ## Contatos  
 * * *   
-[steam](http://steamcommunity.com/id/vitorr1232/)          
-##Gifs      
+[steam](http://steamcommunity.com/id/vitorr1232/)   
+* * *
+## Gifs   
+* * *   
 ![](qota.gif)   
 ![](Fallen GIF.gif)   
 * * *
