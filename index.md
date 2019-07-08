@@ -51,6 +51,7 @@ _Conheça o seu pior pesadelo, as bacterias. Jogo Tower defence. Pc/celular._
 ### Parcerias      
 * * * 
 **Maior tutor de todos os tempos** 
+* * *
 [Marcelo Barbosa](http://marcelomesmo.github.io/)   
 [Elielton Torres](eriksonnicacio.github.io)      
 [Erikison Pedro](eriksonnicacio.github.io)   
@@ -59,9 +60,11 @@ _Conheça o seu pior pesadelo, as bacterias. Jogo Tower defence. Pc/celular._
 
 ## Contatos  
 * * *   
-[steam](http://steamcommunity.com/id/vitorr1232/)!
-![email](vrodrigues153@gmail.com)
-![phone/celular] (+55 84 99449-0517)
+[steam](http://steamcommunity.com/id/vitorr1232/)
+* * *
+[email](vrodrigues153@gmail.com)
+* * *
+[phone/celular] (+55 84 99449-0517)
 * * *
 
 
