@@ -4,7 +4,7 @@ layout: default
 
 # **Quem sou eu!?**  
 * * *
-![](peixe-serio-bob-esponja.jpg)     
+     
 **Exaluno de Programação de Jogos Digitais do Instituto Federal de Ciencia e Tecnologia Do Rio Grande do Norte Ceará-Mirim 2015.1, Victor Rodrigues. Natural de Ceará- Mirim RN, 19 anos.**      
 ***ExStudent of Programming of Digital Games of the Federal Institute of Science and Technology of Rio Grande do Norte Ceará-Mirim, Victor Rodrigues. Natural from Ceará - Mirim RN, 19 years old. ~~my english is so bad~~***   
 * * * 
@@ -43,14 +43,15 @@ _Conheça o seu pior pesadelo, as bacterias. Jogo Tower defence. Pc/celular._
 ![](esquelo_correndo.gif)   
 ![](esquelo_impacto.gif)   
 ![](esquelo_pulando2.gif)      
-### Mapa de Influência   
+### Trabalhos com Desing    
 * * *   
-![](Map influnceOficial.png)
+
 * * *   
 
 ### Parcerias      
 * * * 
-**Maior tutor de todos os tempos** [Marcelo Barbosa](http://marcelomesmo.github.io/)   
+**Maior tutor de todos os tempos** 
+[Marcelo Barbosa](http://marcelomesmo.github.io/)   
 [Elielton Torres](eriksonnicacio.github.io)      
 [Erikison Pedro](eriksonnicacio.github.io)   
 [Jose Luiz Dantas](jldifrn.github.io)   
@@ -58,7 +59,9 @@ _Conheça o seu pior pesadelo, as bacterias. Jogo Tower defence. Pc/celular._
 
 ## Contatos  
 * * *   
-[steam](http://steamcommunity.com/id/vitorr1232/)   
+[steam](http://steamcommunity.com/id/vitorr1232/)
+[email](vrodrigues153@gmail.com)
+[phone/celular] (+55 84 99449-0517)
 * * *
 
 
