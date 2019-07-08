@@ -4,9 +4,9 @@ layout: default
 
 # **Quem sou eu!?**  
 * * *
-![](peixe-serio-bob-esponja.jpg)  **Foto que melhor me representa**    
-**Aluno de Programação de Jogos Digitais do Instituto Federal de Ciencia e Tecnologia Do Rio Grande do Norte Ceará-Mirim, Victor "Frosty" Rodrigues. Natural de Ceará- Mirim RN, 17 anos, Futuro desenvolvedor de Jogos Digitais**      
-***Student of Programming of Digital Games of the Federal Institute of Science and Technology of Rio Grande do Norte Ceará-Mirim, Victor "Frosty" Rodrigues. Natural from Ceará - Mirim RN, 17 years old, Future developer of Digital Games, ~~my english is so bad~~***   
+![](peixe-serio-bob-esponja.jpg)     
+**Exaluno de Programação de Jogos Digitais do Instituto Federal de Ciencia e Tecnologia Do Rio Grande do Norte Ceará-Mirim 2015.1, Victor Rodrigues. Natural de Ceará- Mirim RN, 19 anos.**      
+***ExStudent of Programming of Digital Games of the Federal Institute of Science and Technology of Rio Grande do Norte Ceará-Mirim, Victor Rodrigues. Natural from Ceará - Mirim RN, 19 years old. ~~my english is so bad~~***   
 * * * 
 # Portfólio 
   _Durante o ano de 2017 e 2018 minha turma de programação digital fizemos varios projetos de jogos digitais abaixo você consigirá velos é prestigia-los.   
@@ -55,17 +55,11 @@ _Conheça o seu pior pesadelo, as bacterias. Jogo Tower defence. Pc/celular._
 [Erikison Pedro](eriksonnicacio.github.io)   
 [Jose Luiz Dantas](jldifrn.github.io)   
 * * *   
-## Premiações    
-**"5 arnold,7 norte nordeste, 6 bbb, 10 soletrando, 3 mega da virada, 8 major."**   
-* * *
+
 ## Contatos  
 * * *   
 [steam](http://steamcommunity.com/id/vitorr1232/)   
 * * *
-## Gifs   
-* * *   
-![](qota.gif)   
-![](Fallen GIF.gif)   
-* * *
+
 
 
