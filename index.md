@@ -45,7 +45,9 @@ _Conheça o seu pior pesadelo, as bacterias. Jogo Tower defence. Pc/celular._
 ![](esquelo_pulando2.gif)      
 ### Trabalhos com Desing    
 * * *   
-
+![](AlineDefinitivo.png)
+![](Brasao_da_familia.png)
+![](jaguaribe_logo.png)
 * * *   
 
 ### Parcerias      
