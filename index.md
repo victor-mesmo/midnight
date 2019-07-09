@@ -5,8 +5,8 @@ layout: default
 # **Quem sou eu!?**  
 * * *
      
-**Exaluno de Programação de Jogos Digitais do Instituto Federal de Ciencia e Tecnologia Do Rio Grande do Norte Ceará-Mirim 2015.1, Victor Rodrigues. Natural de Ceará- Mirim RN, 19 anos.**      
-***ExStudent of Programming of Digital Games of the Federal Institute of Science and Technology of Rio Grande do Norte Ceará-Mirim, Victor Rodrigues. Natural from Ceará - Mirim RN, 19 years old. ~~my english is so bad~~***   
+**Exaluno de Programação de Jogos Digitais do Instituto Federal de Ciencia e Tecnologia Do Rio Grande do Norte Ceará-Mirim 2015.1, Victor Rodrigues. Natural Brasil, Ceará- Mirim RN, 19 anos.**      
+***ExStudent of Programming of Digital Games of the Federal Institute of Science and Technology of Rio Grande do Norte Ceará-Mirim, Victor Rodrigues. Natural from Brazil, Ceará - Mirim RN, 19 years old. ~~my english is so bad~~***   
 * * * 
 # Portfólio 
   _Durante o ano de 2017 e 2018 minha turma de programação digital fizemos varios projetos de jogos digitais abaixo você consigirá velos é prestigia-los.   
